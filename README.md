@@ -1,6 +1,6 @@
 # Israel Matheus
 
-Me chamo Israel Matheus, nasci na capital de São Paulo e iniciei no desenvolvimento no ano de 2023 e até então tenho procurado adquirir mais conhecimento na área dia após dia. Fiz técnico em Desenvolvimento de Sistemas na ETEC e a faculdade de Análise e Desenvolvimento de Sistemas na Unicid.
+Nasci na capital de São Paulo e iniciei no desenvolvimento no ano de 2023 e até então tenho procurado adquirir mais conhecimento na área dia após dia. Fiz técnico em Desenvolvimento de Sistemas na ETEC e a faculdade de Análise e Desenvolvimento de Sistemas na Unicid.
 Tenho um foco especial em Python, estou constantemente aprendendo e aprimorando minhas habilidades para se tornar um desenvolvedor mais versátil e eficaz nesta linguagem, a simplicidade e poder da linguagem Python me deixa animado para explorar suas inúmeras aplicações, desde desenvolvimento web até análise de dados. 
 Pessoalmente, me considero capaz de sempre estar pronto para aprender novas coisas, sempre aberto a novos desafios e oportunidades de crescimento tanto pessoal quanto profissional.
 
