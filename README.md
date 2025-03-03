@@ -50,8 +50,8 @@ Pessoalmente, me considero capaz de sempre estar pronto para aprender novas cois
 />
 <img 
     align="left" 
-    alt="MySQL" 
-    title="MySQL"
+    alt="PostgreSQL" 
+    title="PostgreSQL"
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg"
