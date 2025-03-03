@@ -50,6 +50,14 @@ Pessoalmente, me considero capaz de sempre estar pronto para aprender novas cois
 />
 <img 
     align="left" 
+    alt="MySQL" 
+    title="MySQL"
+    width="30px" 
+    style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-plain-wordmark.svg"          
+/>
+<img 
+    align="left" 
     alt="NodeJs" 
     title="NodeJs"
     width="30px" 
