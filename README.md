@@ -1,7 +1,7 @@
 # Israel Matheus
 
-Nasci na capital de São Paulo e iniciei no desenvolvimento no ano de 2023 e até então tenho procurado adquirir mais conhecimento na área dia após dia. Fiz técnico em Desenvolvimento de Sistemas na ETEC e a faculdade de Análise e Desenvolvimento de Sistemas na Unicid.
-Tenho um foco especial em Python, estou constantemente aprendendo e aprimorando minhas habilidades para se tornar um desenvolvedor mais versátil e eficaz nesta linguagem, a simplicidade e poder da linguagem Python me deixa animado para explorar suas inúmeras aplicações, desde desenvolvimento web até análise de dados. 
+Nasci na capital de São Paulo e iniciei minha jornada no desenvolvimento em 2023. Desde então, venho buscando constantemente aprimorar meus conhecimentos na área. Concluí o curso técnico em Desenvolvimento de Sistemas na ETEC e a graduação em Análise e Desenvolvimento de Sistemas na Unicid.
+Tenho um foco especial em Python e estou sempre aprendendo e aprimorando minhas habilidades para me tornar um desenvolvedor mais versátil e eficiente. A simplicidade e o poder dessa linguagem me motivam a explorar suas diversas aplicações, desde desenvolvimento web até análise de dados.
 Pessoalmente, me considero capaz de sempre estar pronto para aprender novas coisas, sempre aberto a novos desafios e oportunidades de crescimento tanto pessoal quanto profissional.
 
 ---
