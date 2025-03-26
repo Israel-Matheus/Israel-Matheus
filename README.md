@@ -1,7 +1,7 @@
 # Israel Matheus
 
-Nasci na capital de São Paulo e iniciei minha jornada no desenvolvimento em 2023. Desde então, venho buscando constantemente aprimorar meus conhecimentos na área. Concluí o curso técnico em Desenvolvimento de Sistemas na ETEC e a graduação em Análise e Desenvolvimento de Sistemas na Unicid.
-Tenho um foco especial em Python e estou sempre aprendendo e aprimorando minhas habilidades para me tornar um desenvolvedor mais versátil e eficiente. Pessoalmente, me considero capaz de sempre estar pronto para aprender novas coisas, sempre aberto a novos desafios e oportunidades de crescimento tanto pessoal quanto profissional.
+I've been interested in programming since my teenage years, especially in games. However, it was in 2022 that I truly started studying and diving deeper into the field. 
+In 2023, I officially began my journey in development, and since then, I have been constantly working to expand my knowledge. I'm always eager to learn new things and open to challenges and opportunities for both personal and professional growth
 
 ---
 
