@@ -1,7 +1,7 @@
 # Israel Matheus
 
 I've been interested in programming since my teenage years, especially in games. Over time, I began studying more seriously and diving deeper into the field. 
-Since then, I’ve officially started my journey in development and have been constantly working to expand my knowledge. I'm always eager to learn new things and open to challenges and opportunities for both personal and professional growth..
+Since then, I’ve officially started my journey in development and have been constantly working to expand my knowledge.
 
 ---
 
