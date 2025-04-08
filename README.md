@@ -41,11 +41,11 @@ Since then, I’ve officially started my journey in development and have been co
 />
 <img 
     align="left" 
-    alt="PHP" 
-    title="PHP"
+    alt="MySQL" 
+    title="MySQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" 
 />
 <img 
     align="left" 
