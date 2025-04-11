@@ -41,14 +41,6 @@ Since then, I’ve officially started my journey in development and have been co
 />
 <img 
     align="left" 
-    alt="SQL Server" 
-    title="SQL Server"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg"
-/>
-<img 
-    align="left" 
     alt="MySQL" 
     title="MySQL"
     width="30px" 
